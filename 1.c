@@ -3,3 +3,7 @@ int main()
 {
     printf("hello!");
 }
+int ji()
+{
+    return 0;
+}
